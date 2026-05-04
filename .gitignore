@@ -1,0 +1,9 @@
+# Ignorar archivos grandes del TP1
+TP1 - ejemplo 2/Base Alumnos_AprenderSec_2022.csv
+TP1 - ejemplo 2/Base Directivos_AprenderSec_2022.csv
+
+# Ignorar archivos comunes
+__pycache__/
+*.pyc
+.DS_Store
+*.parquet
